@@ -18,10 +18,16 @@ Please take some time to give me feedback, that will help me to improve!
 
 For anything, write to me using the [Contact](https://dattanibedita.github.io/#contact) section.
 
-I run few pages on social media where I post new facts every weekday. Yes! I am curious about this world.
+I run few pages on social media where I post new facts every weekday.
 
-Follow my pages on social media or you can contact me there as well!
+Yes! I am curious about this world.
 
-Finally, you can see my personality on YouTube. I upload videos occassionally on my [YouTube channel]() where I post productivity tips, life-hacks and interesting facts.
+Follow my pages on [facebook](https://www.facebook.com/whyandzedpost/), [Instagram](https://www.instagram.com/whyandzedpost/) or [Twitter](https://twitter.com/whyandzedpost).
+
+I use the username @whyandzedpost on all these platforms. You can contact me there as well!
+
+Finally, you can see my personality on YouTube. I upload videos occassionally on my [YouTube channel](https://www.youtube.com/channel/UCRlmpXtxhkrMVNyeehiED7A) where I post productivity tips, life-hacks and interesting facts.
+
+Seach YouTube with whyandzed and you can find my channel. Alternatively, you can click [this link](https://www.youtube.com/channel/UCRlmpXtxhkrMVNyeehiED7A).
 
 Again, I appreciate your presence here. Contact me on my social media for anything, even for saying just "Hello"!
