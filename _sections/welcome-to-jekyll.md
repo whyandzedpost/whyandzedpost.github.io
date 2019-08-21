@@ -1,11 +1,27 @@
 ---
-title: Welcome to Jekyll!
+title: Thanks for your interest!
 icon: fa-check
 order: 5
 ---
 
-This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.
+Thank you not only for your interest in my work, but for being curious about data science.
 
-All sections have titles, which are listed in the site's navigation menu. At the top of each section, the section's title will render by default (e.g., Welcome to Jekyll!). If you want it to show something different (see Intro), add **auto-header: none** to your frontmatter, and add your text in a <h2> tag inside a <header> tag outside the frontmatter. You'll want to give each section an **order** parameter, also in the frontmatter, or it won't know where to put itself and will hide. Icons are from [Font Awesome](https://fontawesome.com/icons).
+This is a fascinating age of technology, where there is so much information out there, for free, on the internet.
 
-You may notice that this section is written in Markdown -- either Markdown or html works!
+Using these information, we can learn and execute new things and connect with like-minded people.
+
+If you are a fellow data-scientist, I would totally encourage you to set up a website showing your work. It is easy and simple, and I would write a blog post about how to do it.
+
+If you are a recruiter or an expert data scientist, I would REALLY APPRECIATE your honest feedback.
+
+Please take some time to give me feedback, that will help me to improve!
+
+For anything, write to me using the [Contact](https://dattanibedita.github.io/#contact) section.
+
+I run few pages on social media where I post new facts every weekday. Yes! I am curious about this world.
+
+Follow my pages on social media or you can contact me there as well!
+
+Finally, you can see my personality on YouTube. I upload videos occassionally on my [YouTube channel]() where I post productivity tips, life-hacks and interesting facts.
+
+Again, I appreciate your presence here. Contact me on my social media for anything, even for saying just "Hello"!
