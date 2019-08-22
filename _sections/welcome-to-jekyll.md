@@ -4,7 +4,7 @@ icon: fa-check
 order: 5
 ---
 
-Go back to <a href="https://www.facebook.com/whyandzedpost/" target="_blank">Home</a>
+Go back to [home](https://dattanibedita.github.io/)
 
 All the images used on this website are copyright-free images taken from unsplash.
 
