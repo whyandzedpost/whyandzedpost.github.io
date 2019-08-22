@@ -6,9 +6,15 @@ order: 5
 
 <a href="https://www.facebook.com/whyandzedpost/" target="_blank">Facebook</a>
 
+All the images used on this website are copyright-free images taken from unsplash.
+
+This website is hosted by Github Pages and Jekyll. The jekyll theme used is by Chris Bobbe.
+
+Thanks to the power of internet, this website has been quite a collaboration from around the world!
+
 For anything, write to me using the [Contact](https://dattanibedita.github.io/#contact) section.
 
-Follow my pages on [facebook](https://www.facebook.com/whyandzedpost/), [Instagram](https://www.instagram.com/whyandzedpost/) or [Twitter](https://twitter.com/whyandzedpost).
+Follow my pages on your favorite social media. Be it [facebook](https://www.facebook.com/whyandzedpost/), [Instagram](https://www.instagram.com/whyandzedpost/) or [Twitter](https://twitter.com/whyandzedpost).
 
 I use the username @whyandzedpost on all these platforms. You can contact me there as well!
 
