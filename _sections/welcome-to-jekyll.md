@@ -8,7 +8,7 @@ Go back to [home](https://dattanibedita.github.io/)
 
 All the images used on this website are copyright-free images taken from unsplash.
 
-This website is hosted by Github Pages and Jekyll. The jekyll theme used is by Chris Bobbe. Thanks to the power of internet, this website has been quite a collaboration from around the world! Thanks to all the contributors.
+This website is hosted by Github Pages and Jekyll. The jekyll theme used is developed by <a href="https://chrisbobbe.github.io/" target="_blank">Chris Bobbe</a>. Thanks to the power of internet, this website has been quite a collaboration from around the world! Thanks to all the contributors.
 
 For anything, write to me using the <a href="https://dattanibedita.github.io/#contact" target="_blank">Contact</a> section.
 
