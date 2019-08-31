@@ -21,3 +21,7 @@ Finally, you can see my personality on YouTube. I upload videos occassionally on
 Seach YouTube with whyandzed and you can find my channel. Alternatively, you can click <a href="https://www.youtube.com/channel/UCRlmpXtxhkrMVNyeehiED7A/" target="_blank">this link</a>.
 
 I appreciate your presence here. Contact me on my social media for anything, even for saying just "Hello"!
+
+<footer>
+  <a href="#intro" class="button scrolly">Go to top</a>
+</footer>
